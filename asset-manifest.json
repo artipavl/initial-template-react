@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/initial-template-react/static/css/main.073c9b0a.css",
+    "main.js": "/initial-template-react/static/js/main.bbc79367.js",
+    "static/js/787.258d5fd8.chunk.js": "/initial-template-react/static/js/787.258d5fd8.chunk.js",
+    "static/media/logo.svg": "/initial-template-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/initial-template-react/index.html",
+    "main.073c9b0a.css.map": "/initial-template-react/static/css/main.073c9b0a.css.map",
+    "main.bbc79367.js.map": "/initial-template-react/static/js/main.bbc79367.js.map",
+    "787.258d5fd8.chunk.js.map": "/initial-template-react/static/js/787.258d5fd8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.bbc79367.js"
+  ]
+}
